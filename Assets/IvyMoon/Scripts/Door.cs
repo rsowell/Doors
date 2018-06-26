@@ -46,7 +46,7 @@ public class Door : MonoBehaviour
     Vector3 originalPosition;
     Quaternion originalRotation;
     Quaternion currentRotation;
-    bool openNow = false;
+    public bool openNow = false;
     bool swipingDoor;
     //float Distance;
     // Use this for initialization
@@ -95,11 +95,11 @@ public class Door : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
-        if (Input.GetMouseButtonDown(0))
-        {
-            openNow = true;
-        }
+{
+        //if (Input.GetMouseButtonDown(0))
+        //{
+         //   openNow = true;
+        //}
         //   if (Input.GetAxis("Fire1") == 1)
         //    {
         // print("xxxxxxxxxxx");
