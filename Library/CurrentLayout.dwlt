@@ -387,9 +387,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: dcf9ffff
-    m_LastClickedID: -1572
-    m_ExpandedIDs: def9fffff0f9ffff00000000060e0000
+    m_SelectedIDs: 24060000
+    m_LastClickedID: 0
+    m_ExpandedIDs: f0f9ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -484,20 +484,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/IvyMoon/Scripts
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/IvyMoon/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: /home/local/CORNELL-COLLEGE/rsowell/UnityProjects/Doors
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 04090000
-    m_LastClickedID: 2308
-    m_ExpandedIDs: 00000000040900001a0a0000f00a000000ca9a3bffffff7f
+    m_SelectedIDs: fa0b0000
+    m_LastClickedID: 3066
+    m_ExpandedIDs: 00000000060900001c0a0000f20a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -525,7 +525,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000040900001a0a0000f00a0000
+    m_ExpandedIDs: 00000000060900001c0a0000f20a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

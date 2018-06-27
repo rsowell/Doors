@@ -13,9 +13,14 @@ public class PlayerInputScript : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetMouseButtonDown(0))
+		if (Input.GetKeyDown("z"))
         {
-            myDoor.openNow = true;
+			myDoor.state = 1;
+//            myDoor.openNow = true;
         }
+		if (Input.GetKeyDown("x"))
+		{
+			myDoor.state = 3;
+		}
 	}
 }

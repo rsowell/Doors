@@ -41,7 +41,7 @@ public class Door : MonoBehaviour
 
 
     AudioClip openAudio; //reference to deathAudio selection
-    float state;
+    public float state;
     Vector3 s_Distance;
     Vector3 originalPosition;
     Quaternion originalRotation;
